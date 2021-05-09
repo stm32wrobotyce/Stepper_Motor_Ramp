@@ -1,0 +1,12 @@
+stepper.c:11:6:stepper_init	24	static
+stepper.c:19:6:stepper_set_ramp_profile	24	static
+stepper.c:27:6:stepper_set_continous	16	static
+stepper.c:37:6:stepper_set_angle	24	static
+stepper.c:56:6:stepper_imediate_stop	16	static
+stepper.c:64:6:stepper_stop_with_profile	16	static
+stepper.c:70:6:stepper_set_direction	16	static
+stepper.c:78:6:stepper_set_speed	24	static
+stepper.c:102:6:stepper_ramp_init	16	static
+stepper.c:121:6:stepper_ramp_init_linear_mode	16	static
+stepper.c:143:6:stepper_ramp_process	16	static
+stepper.c:175:6:stepper_ramp_process_linear_mode	24	static
